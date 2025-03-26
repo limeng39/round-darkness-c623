@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "round-darkness-c623",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "594be163-10ba-4444-8935-4d492e0ee6b5",
+      "database_name": "newsnow_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
